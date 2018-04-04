@@ -1,0 +1,13 @@
+2018-04-02 17:13:12,049 INFO (StartupInfoLogger.java:57)- Started Application in 8.842 seconds (JVM running for 9.67)
+2018-04-02 17:15:58,311 INFO (StartupInfoLogger.java:48)- Starting Application on SULB-ANQ6O7 with PID 16496 (D:\workspace\idea-workspace\Springboot\target\classes started by ThinkPad in D:\workspace\idea-workspace\Springboot)
+2018-04-02 17:15:58,315 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2018-04-02 17:15:58,316 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2018-04-02 17:16:07,443 INFO (StartupInfoLogger.java:57)- Started Application in 10.133 seconds (JVM running for 11.015)
+2018-04-02 17:33:16,532 INFO (StartupInfoLogger.java:48)- Starting Application on SULB-ANQ6O7 with PID 16176 (D:\workspace\idea-workspace\Springboot\target\classes started by ThinkPad in D:\workspace\idea-workspace\Springboot)
+2018-04-02 17:33:16,537 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2018-04-02 17:33:16,537 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2018-04-02 17:33:25,862 INFO (StartupInfoLogger.java:57)- Started Application in 10.616 seconds (JVM running for 11.529)
+2018-04-02 17:36:00,021 INFO (StartupInfoLogger.java:48)- Starting Application on SULB-ANQ6O7 with PID 15924 (D:\workspace\idea-workspace\Springboot\target\classes started by ThinkPad in D:\workspace\idea-workspace\Springboot)
+2018-04-02 17:36:00,028 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2018-04-02 17:36:00,029 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2018-04-02 17:36:09,346 INFO (StartupInfoLogger.java:57)- Started Application in 10.177 seconds (JVM running for 10.924)

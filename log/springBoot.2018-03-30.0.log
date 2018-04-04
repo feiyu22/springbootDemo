@@ -1,0 +1,19 @@
+2018-03-30 17:35:21,169 INFO (StartupInfoLogger.java:48)- Starting RedisTest on SULB-ANQ6O7 with PID 13572 (started by ThinkPad in D:\workspace\idea-workspace\Springboot)
+2018-03-30 17:35:21,186 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2018-03-30 17:35:21,187 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2018-03-30 17:35:29,027 INFO (StartupInfoLogger.java:57)- Started RedisTest in 8.991 seconds (JVM running for 11.048)
+2018-03-30 17:36:33,699 INFO (StartupInfoLogger.java:48)- Starting RedisTest on SULB-ANQ6O7 with PID 7508 (started by ThinkPad in D:\workspace\idea-workspace\Springboot)
+2018-03-30 17:36:33,700 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2018-03-30 17:36:33,701 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2018-03-30 17:36:41,027 INFO (StartupInfoLogger.java:57)- Started RedisTest in 8.82 seconds (JVM running for 10.881)
+2018-03-30 17:36:41,517 INFO (RedisTest.java:58)- tom
+2018-03-30 17:36:41,518 INFO (RedisTest.java:58)- jerry
+2018-03-30 17:37:11,083 INFO (StartupInfoLogger.java:48)- Starting RedisTest on SULB-ANQ6O7 with PID 18368 (started by ThinkPad in D:\workspace\idea-workspace\Springboot)
+2018-03-30 17:37:11,085 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2018-03-30 17:37:11,085 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2018-03-30 17:37:17,376 INFO (StartupInfoLogger.java:57)- Started RedisTest in 7.556 seconds (JVM running for 8.963)
+2018-03-30 17:37:28,644 INFO (RedisTest.java:58)- tom
+2018-03-30 17:37:31,911 INFO (RedisTest.java:58)- jerry
+2018-03-30 17:37:44,399 INFO (StartupInfoLogger.java:48)- Starting RedisTest on SULB-ANQ6O7 with PID 5072 (started by ThinkPad in D:\workspace\idea-workspace\Springboot)
+2018-03-30 17:37:44,400 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2018-03-30 17:37:44,401 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default

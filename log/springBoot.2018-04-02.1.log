@@ -1,0 +1,18 @@
+2018-04-02 17:00:59,329 INFO (StartupInfoLogger.java:57)- Started ServiceTest in 7.839 seconds (JVM running for 9.158)
+2018-04-02 17:00:59,991 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 17:01:00,031 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, 1(Integer), cat1(String)
+2018-04-02 17:01:00,045 DEBUG (BaseJdbcLogger.java:145)- <==    Updates: 1
+2018-04-02 17:01:00,047 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 17:01:00,048 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, 1(Integer), cat2(String)
+2018-04-02 17:01:00,054 DEBUG (BaseJdbcLogger.java:145)- <==    Updates: 1
+2018-04-02 17:01:00,110 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 17:01:00,111 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, 1(Integer), cat3(String)
+2018-04-02 17:01:00,113 DEBUG (BaseJdbcLogger.java:145)- <==    Updates: 1
+2018-04-02 17:01:00,114 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 17:01:00,114 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, 1(Integer), cat12345678(String)
+2018-04-02 17:01:51,764 INFO (StartupInfoLogger.java:48)- Starting Application on SULB-ANQ6O7 with PID 820 (D:\workspace\idea-workspace\Springboot\target\classes started by ThinkPad in D:\workspace\idea-workspace\Springboot)
+2018-04-02 17:01:51,771 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2018-04-02 17:01:51,772 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2018-04-02 17:02:01,253 INFO (StartupInfoLogger.java:57)- Started Application in 10.452 seconds (JVM running for 11.207)
+2018-04-02 17:02:26,039 DEBUG (HelloController.java:27)- debug 日志输出
+2018-04-02 17:02:55,276 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 

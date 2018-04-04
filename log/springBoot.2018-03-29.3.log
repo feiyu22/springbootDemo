@@ -1,0 +1,5 @@
+2018-03-29 11:43:48,477 INFO (StartupInfoLogger.java:57)- Started RedisTest in 5.429 seconds (JVM running for 6.464)
+2018-03-29 11:44:15,255 INFO (StartupInfoLogger.java:48)- Starting RedisTest on SULB-ANQ6O7 with PID 716 (started by ThinkPad in D:\workspace\idea-workspace\Springboot)
+2018-03-29 11:44:15,256 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2018-03-29 11:44:15,256 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2018-03-29 11:44:19,741 INFO (StartupInfoLogger.java:57)- Started RedisTest in 5.294 seconds (JVM running for 6.31)

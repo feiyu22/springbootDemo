@@ -1,0 +1,20 @@
+2018-04-02 17:02:55,307 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, null, null
+2018-04-02 17:02:55,441 ERROR (GlobalDefaultExceptionHandler.java:24)- org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'cat_age' cannot be null
+### The error may involve com.learn.springboot.dao.CatMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: insert into cat (id, cat_age, cat_name       )     values (?, ?, ?       )
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'cat_age' cannot be null
+; SQL []; Column 'cat_age' cannot be null; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'cat_age' cannot be null
+2018-04-02 17:03:00,048 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 17:03:00,049 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, null, null
+2018-04-02 17:03:00,063 ERROR (GlobalDefaultExceptionHandler.java:24)- org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'cat_age' cannot be null
+### The error may involve com.learn.springboot.dao.CatMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: insert into cat (id, cat_age, cat_name       )     values (?, ?, ?       )
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'cat_age' cannot be null
+; SQL []; Column 'cat_age' cannot be null; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'cat_age' cannot be null
+2018-04-02 17:13:04,267 INFO (StartupInfoLogger.java:48)- Starting Application on SULB-ANQ6O7 with PID 13568 (D:\workspace\idea-workspace\Springboot\target\classes started by ThinkPad in D:\workspace\idea-workspace\Springboot)
+2018-04-02 17:13:04,277 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2018-04-02 17:13:04,278 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default

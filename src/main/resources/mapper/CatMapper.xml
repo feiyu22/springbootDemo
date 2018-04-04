@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.learn.springboot.dao.CatMapper">
+  <resultMap id="BaseResultMap" type="com.learn.springboot.model.Cat">
+    <id column="id" jdbcType="INTEGER" property="id" />
+    <result column="cat_age" jdbcType="INTEGER" property="catAge" />
+    <result column="cat_name" jdbcType="VARCHAR" property="catName" />
+  </resultMap>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer">
+    delete from cat
+    where id = #{id,jdbcType=INTEGER}
+  </delete>
+  <insert id="insert" parameterType="com.learn.springboot.model.Cat">
+    insert into cat (id, cat_age, cat_name
+      )
+    values (#{id,jdbcType=INTEGER}, #{catAge,jdbcType=INTEGER}, #{catName,jdbcType=VARCHAR}
+      )
+  </insert>
+  <update id="updateByPrimaryKey" parameterType="com.learn.springboot.model.Cat">
+    update cat
+    set cat_age = #{catAge,jdbcType=INTEGER},
+      cat_name = #{catName,jdbcType=VARCHAR}
+    where id = #{id,jdbcType=INTEGER}
+  </update>
+  <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
+    select id, cat_age, cat_name
+    from cat
+    where id = #{id,jdbcType=INTEGER}
+  </select>
+  <select id="selectAll" resultMap="BaseResultMap">
+    select id, cat_age, cat_name
+    from cat
+  </select>
+</mapper>

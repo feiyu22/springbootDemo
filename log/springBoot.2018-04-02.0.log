@@ -1,0 +1,98 @@
+2018-04-02 11:55:03,528 INFO (StartupInfoLogger.java:48)- Starting RedisTest on SULB-ANQ6O7 with PID 7076 (started by ThinkPad in D:\workspace\idea-workspace\Springboot)
+2018-04-02 11:55:03,538 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2018-04-02 11:55:03,539 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2018-04-02 11:55:08,922 INFO (StartupInfoLogger.java:57)- Started RedisTest in 6.62 seconds (JVM running for 7.813)
+2018-04-02 11:55:34,441 INFO (StartupInfoLogger.java:48)- Starting RedisTest on SULB-ANQ6O7 with PID 15100 (started by ThinkPad in D:\workspace\idea-workspace\Springboot)
+2018-04-02 11:55:34,442 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2018-04-02 11:55:34,443 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2018-04-02 11:55:39,049 INFO (StartupInfoLogger.java:57)- Started RedisTest in 5.589 seconds (JVM running for 6.603)
+2018-04-02 11:58:21,811 INFO (StartupInfoLogger.java:48)- Starting RedisTest on SULB-ANQ6O7 with PID 16228 (started by ThinkPad in D:\workspace\idea-workspace\Springboot)
+2018-04-02 11:58:21,812 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2018-04-02 11:58:21,813 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2018-04-02 11:58:28,385 INFO (StartupInfoLogger.java:57)- Started RedisTest in 7.925 seconds (JVM running for 9.457)
+2018-04-02 12:00:28,772 INFO (StartupInfoLogger.java:48)- Starting RedisTest on SULB-ANQ6O7 with PID 8332 (started by ThinkPad in D:\workspace\idea-workspace\Springboot)
+2018-04-02 12:00:28,773 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2018-04-02 12:00:28,773 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2018-04-02 12:00:35,460 INFO (StartupInfoLogger.java:57)- Started RedisTest in 8.04 seconds (JVM running for 9.455)
+2018-04-02 15:46:03,401 INFO (StartupInfoLogger.java:48)- Starting ServiceTest on SULB-ANQ6O7 with PID 12476 (started by ThinkPad in D:\workspace\idea-workspace\Springboot)
+2018-04-02 15:46:03,408 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2018-04-02 15:46:03,409 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2018-04-02 15:46:09,632 INFO (StartupInfoLogger.java:57)- Started ServiceTest in 7.468 seconds (JVM running for 8.92)
+2018-04-02 15:46:10,360 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 15:46:10,387 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, 1(Integer), cat1(String)
+2018-04-02 15:46:10,476 DEBUG (BaseJdbcLogger.java:145)- <==    Updates: 1
+2018-04-02 15:46:10,479 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 15:46:10,482 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, 1(Integer), cat2(String)
+2018-04-02 15:46:10,506 DEBUG (BaseJdbcLogger.java:145)- <==    Updates: 1
+2018-04-02 15:46:10,510 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 15:46:10,512 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, 1(Integer), cat3(String)
+2018-04-02 15:46:10,547 DEBUG (BaseJdbcLogger.java:145)- <==    Updates: 1
+2018-04-02 15:46:10,548 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 15:46:10,549 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, 1(Integer), cat1234567(String)
+2018-04-02 15:46:10,588 DEBUG (BaseJdbcLogger.java:145)- <==    Updates: 1
+2018-04-02 15:46:10,592 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 15:46:10,593 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, 1(Integer), cat5(String)
+2018-04-02 15:46:10,618 DEBUG (BaseJdbcLogger.java:145)- <==    Updates: 1
+2018-04-02 15:47:01,758 INFO (StartupInfoLogger.java:48)- Starting ServiceTest on SULB-ANQ6O7 with PID 9528 (started by ThinkPad in D:\workspace\idea-workspace\Springboot)
+2018-04-02 15:47:01,793 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2018-04-02 15:47:01,794 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2018-04-02 15:47:08,118 INFO (StartupInfoLogger.java:57)- Started ServiceTest in 7.854 seconds (JVM running for 9.157)
+2018-04-02 15:47:08,725 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 15:47:08,752 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, 1(Integer), cat1(String)
+2018-04-02 15:47:08,775 DEBUG (BaseJdbcLogger.java:145)- <==    Updates: 1
+2018-04-02 15:47:08,776 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 15:47:08,779 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, 1(Integer), cat2(String)
+2018-04-02 15:47:08,799 DEBUG (BaseJdbcLogger.java:145)- <==    Updates: 1
+2018-04-02 15:47:08,800 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 15:47:08,800 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, 1(Integer), cat3(String)
+2018-04-02 15:47:08,840 DEBUG (BaseJdbcLogger.java:145)- <==    Updates: 1
+2018-04-02 15:47:08,841 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 15:47:08,842 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, 1(Integer), cat12345678(String)
+2018-04-02 16:06:08,553 INFO (StartupInfoLogger.java:48)- Starting ServiceTest on SULB-ANQ6O7 with PID 16224 (started by ThinkPad in D:\workspace\idea-workspace\Springboot)
+2018-04-02 16:06:08,561 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2018-04-02 16:06:08,563 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2018-04-02 16:06:14,753 INFO (StartupInfoLogger.java:57)- Started ServiceTest in 7.617 seconds (JVM running for 8.993)
+2018-04-02 16:06:15,615 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 16:06:15,665 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, 1(Integer), cat1(String)
+2018-04-02 16:06:15,671 DEBUG (BaseJdbcLogger.java:145)- <==    Updates: 1
+2018-04-02 16:06:15,740 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 16:06:15,747 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, 1(Integer), cat2(String)
+2018-04-02 16:06:15,748 DEBUG (BaseJdbcLogger.java:145)- <==    Updates: 1
+2018-04-02 16:06:15,771 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 16:06:15,772 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, 1(Integer), cat3(String)
+2018-04-02 16:06:15,781 DEBUG (BaseJdbcLogger.java:145)- <==    Updates: 1
+2018-04-02 16:06:15,802 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 16:06:15,803 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, 1(Integer), cat12345678(String)
+2018-04-02 16:07:56,419 INFO (StartupInfoLogger.java:48)- Starting ServiceTest on SULB-ANQ6O7 with PID 6628 (started by ThinkPad in D:\workspace\idea-workspace\Springboot)
+2018-04-02 16:07:56,420 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2018-04-02 16:07:56,420 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2018-04-02 16:08:02,784 INFO (StartupInfoLogger.java:57)- Started ServiceTest in 7.55 seconds (JVM running for 8.867)
+2018-04-02 16:08:03,454 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 16:08:03,489 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, 1(Integer), cat1(String)
+2018-04-02 16:08:03,491 DEBUG (BaseJdbcLogger.java:145)- <==    Updates: 1
+2018-04-02 16:08:03,494 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 16:08:03,498 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, 1(Integer), cat2(String)
+2018-04-02 16:08:03,499 DEBUG (BaseJdbcLogger.java:145)- <==    Updates: 1
+2018-04-02 16:08:03,499 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 16:08:03,500 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, 1(Integer), cat3(String)
+2018-04-02 16:08:03,504 DEBUG (BaseJdbcLogger.java:145)- <==    Updates: 1
+2018-04-02 16:08:03,506 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 16:08:03,506 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, 1(Integer), cat12345678(String)
+2018-04-02 16:12:55,690 INFO (StartupInfoLogger.java:48)- Starting ServiceTest on SULB-ANQ6O7 with PID 16088 (started by ThinkPad in D:\workspace\idea-workspace\Springboot)
+2018-04-02 16:12:55,694 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2018-04-02 16:12:55,697 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2018-04-02 16:13:01,890 INFO (StartupInfoLogger.java:57)- Started ServiceTest in 7.521 seconds (JVM running for 8.9)
+2018-04-02 16:13:02,620 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 16:13:02,657 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, 1(Integer), cat1(String)
+2018-04-02 16:13:02,664 DEBUG (BaseJdbcLogger.java:145)- <==    Updates: 1
+2018-04-02 16:13:02,665 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 16:13:02,668 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, 1(Integer), cat2(String)
+2018-04-02 16:13:02,674 DEBUG (BaseJdbcLogger.java:145)- <==    Updates: 1
+2018-04-02 16:13:02,674 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 16:13:02,676 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, 1(Integer), cat3(String)
+2018-04-02 16:13:02,682 DEBUG (BaseJdbcLogger.java:145)- <==    Updates: 1
+2018-04-02 16:13:02,682 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into cat (id, cat_age, cat_name ) values (?, ?, ? ) 
+2018-04-02 16:13:02,683 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, 1(Integer), cat12345678(String)
+2018-04-02 17:00:52,603 INFO (StartupInfoLogger.java:48)- Starting ServiceTest on SULB-ANQ6O7 with PID 14496 (started by ThinkPad in D:\workspace\idea-workspace\Springboot)
+2018-04-02 17:00:52,605 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2018-04-02 17:00:52,606 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default

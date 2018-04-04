@@ -1,0 +1,17 @@
+2018-03-29 11:38:10,948 INFO (StartupInfoLogger.java:57)- Started RedisTest in 7.588 seconds (JVM running for 9.162)
+2018-03-29 11:38:11,232 INFO (RedisTest.java:41)- value1
+2018-03-29 11:41:02,471 INFO (StartupInfoLogger.java:48)- Starting RedisTest on SULB-ANQ6O7 with PID 4876 (started by ThinkPad in D:\workspace\idea-workspace\Springboot)
+2018-03-29 11:41:02,472 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2018-03-29 11:41:02,477 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2018-03-29 11:41:09,340 INFO (StartupInfoLogger.java:57)- Started RedisTest in 8.236 seconds (JVM running for 9.589)
+2018-03-29 11:42:00,281 INFO (StartupInfoLogger.java:48)- Starting RedisTest on SULB-ANQ6O7 with PID 10624 (started by ThinkPad in D:\workspace\idea-workspace\Springboot)
+2018-03-29 11:42:00,283 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2018-03-29 11:42:00,283 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2018-03-29 11:42:06,330 INFO (StartupInfoLogger.java:57)- Started RedisTest in 7.899 seconds (JVM running for 9.385)
+2018-03-29 11:42:53,416 INFO (StartupInfoLogger.java:48)- Starting RedisTest on SULB-ANQ6O7 with PID 11616 (started by ThinkPad in D:\workspace\idea-workspace\Springboot)
+2018-03-29 11:42:53,530 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2018-03-29 11:42:53,532 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2018-03-29 11:43:01,685 INFO (StartupInfoLogger.java:57)- Started RedisTest in 9.994 seconds (JVM running for 11.518)
+2018-03-29 11:43:44,053 INFO (StartupInfoLogger.java:48)- Starting RedisTest on SULB-ANQ6O7 with PID 12212 (started by ThinkPad in D:\workspace\idea-workspace\Springboot)
+2018-03-29 11:43:44,061 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2018-03-29 11:43:44,062 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
